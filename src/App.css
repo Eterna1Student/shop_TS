@@ -141,7 +141,7 @@
   font-size: 24px;
   font-weight: 500;
   line-height: 30px;
-  font-weight: 500px;
+  font-weight: 500;
   margin: 0 0 7px 0;
 }
 
@@ -241,7 +241,7 @@
   font-size: 24px;
   font-weight: 500;
   line-height: 30px;
-  font-weight: 500px;
+  font-weight: 500;
   margin: 0 0 30px 0;
 }
 
@@ -278,6 +278,20 @@
   margin-bottom: 36px;
   cursor: pointer;
   width: 170px;
+}
+
+.product .info button.active  {
+  background: #ffffff;
+  border-radius: 4px;
+  width: 100%;
+  padding: 14px;
+  color: #2068f8;
+  border: 2px solid #2068f8 ;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  justify-content: center;
 }
 
 
